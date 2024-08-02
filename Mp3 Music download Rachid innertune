@@ -1,7 +1,7 @@
 {
   "ads": {
-    "ShowAds": false,
-    "ShowLoadingAds": false,
+    "ShowAds": true,
+    "ShowLoadingAds": true,
     "ClickCount": 1,
     "huawei_inter": "z3ulzq1ena",
     "huawei_banner": "y2v4ibm4ti"
