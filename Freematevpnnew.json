@@ -128,7 +128,6 @@
         "name": "Morocco",
         "flag_icon": "ma",
         "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-    },
-        
+    }    
     ]
 }
