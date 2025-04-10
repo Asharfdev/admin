@@ -3,8 +3,8 @@
    "AdsController": {
 
  
-    "AdInterval"          : 6,
-    "NativeAdRow"         : 4,
+    "AdInterval"          : 3,
+    "NativeAdRow"         : 3,
 
     
     "AdPlacement": {
