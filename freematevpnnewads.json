@@ -3,18 +3,18 @@
    "AdsController": {
 
  
-    "AdInterval"          : 3,
+    "AdInterval"          : 2,
     "NativeAdRow"         : 2,
 
     
     "AdPlacement": {
       "HuaweiAppId"           : "",
-      "HuaweiBanner"          : "testw6vs28auh3",
-      "HuaweiInterstitial"    : "teste9ih9j0rc3",
-      "HuaweiInterstitialHome": "testb4znbuh3n2",
-      "HuaweiReward"          : "testx9dtjwj8hp",
-      "HuaweiSplash"          : "testq6zq98hecj",
-      "HuaweiNative"          : "testy63txaom86"
+      "HuaweiBanner"          : "s54qj92ksb",
+      "HuaweiInterstitial"    : "m4hoy622bt",
+      "HuaweiInterstitialHome": "m4hoy622bt",
+      "HuaweiReward"          : "e60xd78n5l",
+      "HuaweiSplash"          : "b2t8eki9l9",
+      "HuaweiNative"          : "t9p1gklqmo"
     
     }
    }   
