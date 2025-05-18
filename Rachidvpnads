@@ -1,0 +1,21 @@
+{
+
+   "AdsController": {
+
+ 
+    "AdInterval"          : 2,
+    "NativeAdRow"         : 2,
+
+    
+    "AdPlacement": {
+      "HuaweiAppId"           : "",
+      "HuaweiBanner"          : "s54qj92ksb",
+      "HuaweiInterstitial"    : "m4hoy622bt",
+      "HuaweiInterstitialHome": "m4hoy622bt",
+      "HuaweiReward"          : "e60xd78n5l",
+      "HuaweiSplash"          : "b2t8eki9l9",
+      "HuaweiNative"          : "t9p1gklqmo"
+    
+    }
+   }   
+}
