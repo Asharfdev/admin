@@ -9,12 +9,12 @@
     
     "AdPlacement": {
       "HuaweiAppId"           : "",
-      "HuaweiBanner"          : "s54qj92ksb",
-      "HuaweiInterstitial"    : "m4hoy622bt",
-      "HuaweiInterstitialHome": "m4hoy622bt",
-      "HuaweiReward"          : "e60xd78n5l",
-      "HuaweiSplash"          : "b2t8eki9l9",
-      "HuaweiNative"          : "t9p1gklqmo"
+      "HuaweiBanner"          : "o8075hr1j3",
+      "HuaweiInterstitial"    : "i40dopc84i",
+      "HuaweiInterstitialHome": "i40dopc84i",
+      "HuaweiReward"          : "b73jnk9a1p",
+      "HuaweiSplash"          : "h9ynq9wmxx",
+      "HuaweiNative"          : "i7cpfz02te"
     
     }
    }   
