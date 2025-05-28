@@ -1,7 +1,3 @@
-{"ads":{
-  
-
-"change_contenue":"non"
-
-}
+{
+    "ads_enabled": true  // or false to disable ads
 }
