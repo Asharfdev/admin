@@ -1,5 +1,5 @@
 {
-  "ads_enabled": false,
-  "show_free_button": false,
-  "show_no_ads_button": false
+  "ads_enabled": true,
+  "show_free_button": true,
+  "show_no_ads_button": true
 }
