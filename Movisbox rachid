@@ -1,3 +1,14 @@
 {
     "ads_enabled": false  // or false to disable ads
 }
+
+{
+  "id": 123,
+  "title": "Movie Title",
+  "overview": "Movie description",
+  "poster_path": "/path/to/poster.jpg",
+  "backdrop_path": "/path/to/backdrop.jpg",
+  "vote_average": 8.5,
+  "show_free_button": false,    // Set to false to hide the free button
+  "show_no_ads_button": false  // Set to false to hide the no ads button
+}
