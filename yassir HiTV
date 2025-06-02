@@ -1,5 +1,5 @@
 {
-  "ads_enabled": true,
-  "watch_free_button_enabled": true,
-  "watch_no_ads_button_enabled": true
+  "ads_enabled": false,
+  "watch_free_button_enabled": false,
+  "watch_no_ads_button_enabled": false
 }
