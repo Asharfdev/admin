@@ -1,18 +1,4 @@
 {
-  "ApplovinMrec":"00",
-  "ApploviInter":"00",
-  "ApploviBanner":"00",
-  "HNative":"o6tkxyhzij",
-  "HBanner":"l6wva5h7f6",
-  "HInter":"k5yqosmqhq",
-  "ChooseAdNetwork":"a",
-  "onOff": "false",
- "Icon": "https://www.dropbox.com/scl/fi/v7rgbj97g5n3txp9nucsp/film.png?rlkey=egdbz8kns8pasg5f0nntx0co2&dl=1",
-  "Title":"Download Movies Now",
-  "Description":"watch and download Movies for free \nenjoy now.",
-  "Header":"https://www.dropbox.com/scl/fi/id7t4gujwld7snjilgwe9/Movies.png?rlkey=t5kwhuyp6vs5rrgzq65jhce0b&dl=1",
-  "Cpa":"No",
-  "CpaLink":"https://play.google.com/store/apps/details?id=com.streamingnewpipe.videomusicnewpipe",
-  "interImage":"https://image.winudf.com/v2/image1/Y29tLnN1cGVya2luZy5wYXJjaGlzaS5zdGFyX3NjcmVlbl8xXzE2Mzk4MzczNTVfMDQw/screen-1.webp?fakeurl=1&type=.webp",
-  "interLink":"https://apkpure.com/parchisi-star-online/com.superking.parchisi.star"
+  "ads_enabled": true,
+
 }
