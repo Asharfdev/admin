@@ -3,7 +3,7 @@
   "interstitial": {
     "enabled": false,
     "click_threshold": 3,
-    "ad_unit_id": "R-M-15685979-1"
+    "ad_unit_id": "demo-interstitial-yandex"
   },
   "banner": {
     "enabled": false,
