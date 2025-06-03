@@ -1,6 +1,12 @@
 {
-  "appLovinKey": "zuHPLc4JzAZVcvX-Oz1xUr1LID7Et3MpxIrI0TozMKtyiaJM4xlaIcml1TD0emF1WVUuiC74vmE1ioRavlPfzq",
-  "interstitialAdUnitId": "68e78aea254563ad",
-  "bannerAdUnitId": "183bd7bb0134b289",
-  "showAd": "NO"
+  "enabled": false,
+  "interstitial": {
+    "enabled": false,
+    "click_threshold": 3,
+    "ad_unit_id": "R-M-15685979-1"
+  },
+  "banner": {
+    "enabled": false,
+    "ad_unit_id": ""
+  }
 }
