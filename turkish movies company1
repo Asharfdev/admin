@@ -1,5 +1,3 @@
 {
-  "ads": {
-    "change_contenue": "yes"
-  }
+  "ads_enabled": true
 }
