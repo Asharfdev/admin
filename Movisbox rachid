@@ -1,4 +1,4 @@
 {
-  "ads_enabled": true,
-  "ad_unit_id": "demo-interstitial-yandex"
+  "ads_enabled": false,
+  "ad_unit_id": "00"
 }
