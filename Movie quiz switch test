@@ -1,0 +1,4 @@
+    {
+      "ads_enabled": flase,
+      "mode": "movie" // or "quiz"
+    }
