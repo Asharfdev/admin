@@ -1,4 +1,4 @@
-  {
-      "ads_enabled": flase,
-      "mode": "quiz" // "movie" or "quiz"
-    }
+{
+  "ads_enabled": false,
+  "mode": "quiz"
+}
