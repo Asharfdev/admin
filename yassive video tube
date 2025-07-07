@@ -1,3 +1,5 @@
 {
-  "player": "local" 
+  "player": "local",
+  "ads_enabled": true,
+  "clicks_before_ad": 2
 }
