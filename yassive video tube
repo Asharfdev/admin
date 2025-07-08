@@ -1,5 +1,5 @@
 {
-  "player": "youtube",
+  "player": "local",
   "ads_enabled": false,
   "clicks_before_ad": 1
 }
