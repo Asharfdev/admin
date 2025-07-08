@@ -1,5 +1,5 @@
 {
-  "player": "local",
-  "ads_enabled": true,
-  "clicks_before_ad": 2
+  "player": "youtube",
+  "ads_enabled": flase,
+  "clicks_before_ad": 1
 }
