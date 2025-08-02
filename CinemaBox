@@ -1,5 +1,5 @@
  {
-    "ads_enabled": true,
-    "mode": "movie",
-    "ad_unit_id": "demo-interstitial-yandex"
+    "ads_enabled": false,
+    "mode": "quiz",
+    "ad_unit_id": "00"
   }
