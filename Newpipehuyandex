@@ -1,1 +1,7 @@
-00
+{
+  "enabled": true,
+  "provider": "huawei",
+  "huawei_ad_id": "teste9ih9j0rc3",
+  "yandex_ad_id": "demo-interstitial-yandex",
+  "show_interval": 3
+}
