@@ -1,6 +1,6 @@
 {
   "apps": {
-    "newpipe": true,
-    "videoplayer": false
+    "newpipe": false,
+    "videoplayer": true
   }
 }
