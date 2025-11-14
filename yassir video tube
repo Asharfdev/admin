@@ -1,6 +1,6 @@
 {
    "player": "youtube",
-   "ads_enabled": false,
+   "ads_enabled": true,
    "clicks_before_ad": 1,
    "ad_unit_id": "demo-interstitial-yandex"
 }
