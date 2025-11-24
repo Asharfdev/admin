@@ -1,5 +1,5 @@
 {
-  "appMode": "videoPlayer",
+  "appMode": "youtube",
   "videoPlayerUrl": "https://simplevideoplayer.com/",
   "youtubeUrl": "https://m.youtube.com"
 }
