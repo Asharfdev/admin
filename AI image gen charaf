@@ -1,1 +1,4 @@
-abc
+{
+  "ads_enabled": true,
+  "ad_unit_id": "demo-interstitial-yandex"
+}
