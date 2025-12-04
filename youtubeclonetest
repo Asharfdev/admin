@@ -1,3 +1,3 @@
 {
-  "youtubeclone": true  // true Shows normal YouTube (no download button) false  // Shows mobile YouTube with download button
+  "youtubeclone": false  // true Shows normal YouTube (no download button) false  // Shows mobile YouTube with download button
 }
