@@ -1,5 +1,5 @@
 {
-   "ads_enabled": false,
-   "clicks_before_ad": 1,
-   "ad_unit_id": "demo-interstitial-yandex"
+  "ads_enabled": true,
+  "ad_unit_id": "demo-interstitial-yandex"
 }
+
