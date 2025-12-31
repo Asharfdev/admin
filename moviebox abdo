@@ -1,5 +1,5 @@
 {
   "ads_enabled": true,
-  "button": flase,
+  "button": false,
   "ad_unit_id": "demo-interstitial-yandex"
 }
