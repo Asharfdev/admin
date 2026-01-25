@@ -1,10 +1,13 @@
 {
-    "blocked_keywords": [
-        "Gomorrah",
-        "Spider-Man",
-        "wednesday",
-        "the smashing machine"
-    ]
+  "blocked_keywords": [
+    "Gomorrah",
+    "Spider-Man",
+    "wednesday",
+    "the smashing machine"
+  ],
+  "ads_enabled": true,
+  "ad_provider": "yandex",
+  "ad_unit_id": "testb4znbuh3n2",
+  "yandex_ad_unit_id": "demo-interstitial-yandex"
 }
-
 
