@@ -6,7 +6,7 @@
     "the smashing machine"
   ],
   "ads_enabled": true,
-  "ad_provider": "yandex",
+  "ad_provider": "huawei",
   "ad_unit_id": "testb4znbuh3n2",
   "yandex_ad_unit_id": "demo-interstitial-yandex"
 }
