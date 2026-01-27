@@ -1,5 +1,5 @@
 {
-  "ads_enabled": true,
+  "ads_enabled": false,
   "ad_unit_id": "demo-interstitial-yandex",
   "blocked_keywords": 
  [
