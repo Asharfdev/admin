@@ -5,7 +5,7 @@
     "wednesday",
     "the smashing machine"
   ],
-  "ads_enabled": false,
+  "ads_enabled": true,
   "ad_provider": "huawei",
   "ad_unit_id": "r65c6hyno2",
   "yandex_ad_unit_id": "R-M-18657852-1"
