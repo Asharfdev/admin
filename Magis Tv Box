@@ -1,4 +1,5 @@
 {
-  "ads_enabled": false,
-  "ad_unit_id": "R-M-17637963-1"
+  "ads_enabled": true,
+  "button": false,
+  "ad_unit_id": "R-M-18355504-1"
 }
